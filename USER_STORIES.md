@@ -18,6 +18,22 @@ User stories
 
 8. As a user, I would like time estimates for calculations based on known time scaling of certain methods so that I can make the most of my cluster time
 
-9. As a researcher, I would like a database of open-sourced, publicly available calculations so that I can run calculations informed by wisdom of the crowd
+9. As a researcher, I would like a database of open-sourced, publicly available calculations so that I can run calculations informed by wisdom of the crowds
 
-10. As an educator, I want pedagogical calculations which demonstrate key concepts in chemistry so that students have more concrete examples of the theory that they are learning.
+10. As an educator, I want pedagogical calculations which demonstrate key concepts in chemistry so that students have more concrete examples of the theory that they are learning
+
+11. As a user, I would like graphical comparisons of basis-set performance and cost for different model molecules so I can better choose cost-effective basis sets for calculations
+
+12. As a user, I would like AI predictions of calculation times so that I may estimate cluster use with even more accuracy
+
+13. As a user, I would like to visualize volumetric data in the same frame as molecules so that I can analyze orbitals easily
+
+14. As a user, I would like customizable hotkeys in the molecular editor to create xyz files more quickly
+
+15. As a researcher, I would like customizable colors, resolution, background, etc. to create publication quality images from the editor
+
+16. As a user, I would like automatic parsing and plotting of output files from common procedures in common programs so that visualizing molecular properties is easier
+
+17. As a user, I would like support for community plugins so that I can customize my editor further
+
+18. As a user, I would like to be able to run scripts for the editor to further automate my processes 
