@@ -1,1 +1,0 @@
-const tooltipTriggerList=document.querySelectorAll('[data-bs-toggle="tooltip"]'),tooltipList=[...tooltipTriggerList].map(a=>new bootstrap.Tooltip(a))
